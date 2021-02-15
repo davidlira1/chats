@@ -1,0 +1,9 @@
+let's make one chatbox
+later on we can multiply the amount
+
+//CREATING CHATBOX
+1. CREATE A BOX
+
+
+//MESSAGES
+1. CREATE THE MESSAGE COMPONENT

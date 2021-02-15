@@ -1,0 +1,17 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "An app that displays multiple chat boxes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generateData": "node db/generate-data/generate.js",
+    "loadData": "node db/load-data/load_to_postgres.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^5.4.0",
+    "pg": "^8.5.1"
+  }
+}
